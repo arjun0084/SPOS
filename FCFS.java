@@ -75,31 +75,3 @@ System.out.println("\naverage waiting time: "+ (avgwt/n));     // printing avera
 System.out.println("average turnaround time:"+(avgta/n));    // printing average turnaround time.
 }
 }
-
-/*
- Output:-
-
-
-enter no of process:
-3
-enter process 1 arrival time:
-0
-enter process 1 brust time:
-6
-enter process 2 arrival time:
-4
-enter process 2 brust time:
-4
-enter process 3 arrival time:
-2
-enter process 3 brust time:
-3
-
-pid  arrival  brust  complete turn waiting
-1        0      6       6       6       0
-3        2      3       9       7       4
-2        4      4       13      9       5
-
-average waiting time: 3.0
-average turnaround time:7.3333335
-*/
