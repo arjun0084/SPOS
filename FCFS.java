@@ -1,7 +1,4 @@
-/*  Sinhgad Academy of Engineering, Kondhwa */
-/*	Name :- Pawar Sumit Vikas               */		
-/* Roll No:- COTB38 	Div:- B			    */
-// package FCFS;		
+
 
 import java.util.*;
 public class FCFS {
