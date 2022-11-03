@@ -1,8 +1,3 @@
-/*  Sinhgad Academy of Engineering, Kondhwa */
-/*	Name :- Pawar Sumit Vikas               */		
-/*  Roll No:- COTB38 	Div:- B			    */
-
-// package FiFo;
 
 import java.util.LinkedList;		
 import java.util.Queue;
@@ -27,12 +22,3 @@ public class FiFo {
         System.out.println("The size of the queue is: " + size);		// printing queue size
     }
 }
-
-/*
- * Output:- 
- Created Queue: [486, 294, 352, 965, 169]
-The element deleted from the head is: 486
-The queue after deletion: [294, 352, 965, 169]
-The head of the present queue is: 294
-The size of the queue is: 4
- */
