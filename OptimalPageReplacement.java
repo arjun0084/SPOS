@@ -1,9 +1,4 @@
-/*  Sinhgad Academy of Engineering, Kondhwa */
-/*	Name :- Pawar Sumit Vikas               */		
-/*  Roll No:- COTB38 	Div:- B			    */
 
-// package OptimalPageReplacement;		
-// Java program to demonstrate optimal page replacement algorithm
 import java.io.*;
 import java.util.*;
 class OptimalPageReplacement{
@@ -86,8 +81,3 @@ class OptimalPageReplacement{
 		optimalPage(pg, pn, fn);		}
 }
 
-/*
-Output:- 
-No. of hits = 14
-No. of misses = 12
- */
