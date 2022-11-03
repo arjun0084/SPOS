@@ -1,8 +1,3 @@
-/*  Sinhgad Academy of Engineering, Kondhwa */
-/*  Name :- Pawar Sumit Vikas               */
-/*  Roll No:- COTB38 	Div:- B		        */
-				
-// package SJF;
 
 import java.util.Scanner;										
 public class SJF{
@@ -71,38 +66,4 @@ public class SJF{
 	    System.out.println("\naverage tat is "+ (float)(avgta/n));
 	    System.out.println("average wt is "+ (float)(avgwt/n));
 	    sc.close();
-    }
-    
-}
 
-/*
- Output:- 
-
-Enter no of process:
-4
-enter process 1 arrival time:
-0
-enter process 1 burst time:
-4
-enter process 2 arrival time:
-2
-enter process 2 burst time:
-7
-enter process 3 arrival time:
-3
-enter process 3 burst time:
-2
-enter process 4 arrival time:
-3
-enter process 4 burst time:
-2
-pid  arrival  burst  complete turn waiting
-1       0       4       4       4       0
-2       2       7       15      13      6
-3       3       2       6       3       1
-4       3       2       8       5       3
-
-average tat is 6.25
-average wt is 2.5
-
-*/
