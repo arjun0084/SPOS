@@ -1,9 +1,4 @@
-/*  Sinhgad Academy of Engineering, Kondhwa */
-/*  Name :- Pawar Sumit Vikas               */
-/*  Roll No:- COTB38 	Div:- B		  */
-
-
-// package roundrobin;		
+	
  import java.util.*;
 import java.io.*;
 public class Roundrobin {
@@ -113,47 +108,3 @@ public class Roundrobin {
                                     
     }
 }
-/*
- * Output:- 
- * 
-Enter Number Of Process U want 2 Execute---
-4
-Enter arrival time of 1 Process :
-0
-Enter CPU time of 1 Process :
-5
-Enter arrival time of 2 Process :
-2
-Enter CPU time of 2 Process :
-4
-Enter arrival time of 3 Process :
-4
-Enter CPU time of 3 Process :
-7
-Enter arrival time of 4 Process :
-6
-Enter CPU time of 4 Process :
-6
-Enter time quantum :
-2
-Process execution sequence :
-1 2 3 4 1 2 3 4 1 3 4 3
-Turn around time for 1 process : 17
-Waiting time for 1 process : 12
-Turn around time for 2 process : 10
-Waiting time for 2 process : 6
-Turn around time for 3 process : 18
-Waiting time for 3 process : 11
-Turn around time for 4 process : 15
-Waiting time for 4 process : 9
--------------------------------------------------
-Process         AT      CPU_T
-1               0       5
-2               2       4
-3               4       7
-4               6       6
--------------------------------------------------
-Total turn around time is : 15.0
-
-Total waiting time is : 9.5
- */
