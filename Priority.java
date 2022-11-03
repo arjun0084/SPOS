@@ -1,8 +1,3 @@
-/*  Sinhgad Academy of Engineering, Kondhwa */
-/*  Name :- Pawar Sumit Vikas               */
-/*  Roll No:- COTB38 	Div:- B		  */
-
-// package Priority;
 
 import java.util.*;
 public class Priority {
@@ -96,45 +91,3 @@ public class Priority {
                                    
    }
 }
-/*
-Output:-
-
-Enter Number Of Process U want 2 Execute---
-4
-Enter arrival time of 1 Process :
-0
-Enter CPU time of 1 Process :
-5
-Enter Priority of 1 Process :
-1
-Enter arrival time of 2 Process :
-2
-Enter CPU time of 2 Process :
-4
-Enter Priority of 2 Process :
-2
-Enter arrival time of 3 Process :
-4
-Enter CPU time of 3 Process :
-7
-Enter Priority of 3 Process :
-3
-Enter arrival time of 4 Process :
-6
-Enter CPU time of 4 Process :
-6
-Enter Priority of 4 Process :
-4
-
-
-Process         AT      CPU_T
-1               0       5
-2               2       4
-3               4       7
-4               6       6
-
-
-
-Total turn around time is : 10.0
-Total waiting time is : 4.5
- */
