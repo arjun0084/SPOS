@@ -1,4 +1,4 @@
-// -----> COTB38 PAWAR SUMIT VIKAS <----- // 
+
 
 import java.io.*;
 class Symtab1
@@ -153,5 +153,3 @@ class Symtab1
 		    bufferedReader.close();
 	}
 }
-
-// -----> COST38 PAWAR SUMIT VIKAS <----- // 
