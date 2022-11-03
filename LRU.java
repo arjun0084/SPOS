@@ -1,8 +1,3 @@
-/*  Sinhgad Academy of Engineering, Kondhwa */
-/*	Name :- Pawar Sumit Vikas               */		
-/*  Roll No:- COTB38 	Div:- B			    */
-
-// package LRU;
 
 import java.util.Deque;  
 import java.util.HashMap;  
@@ -71,15 +66,3 @@ public static void main(String[] args)
  } 
 
 
-/* 
-Output:
-Value_2
-
-[2, 4, 3, 1]
-
-Not exist
-
-[5, 2, 4, 3]
-
-
-*/
