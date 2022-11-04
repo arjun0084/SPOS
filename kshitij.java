@@ -1,15 +1,10 @@
-/*  Sinhgad Academy of Engineering, Kondhwa */
-/*  Name :- Pawar Sumit Vikas               */
-/*  Roll No:- COTB38 	Div:- B		        */
 
-// package sumit;
-
-public class sumit extends javax.swing.JFrame {
+public class kshitij extends javax.swing.JFrame {
 
     /**
-     * Creates new form sumit
+     * Creates new form kshitij
      */
-    public sumit() {
+    public kshitij() {
         initComponents();
     }
 
@@ -239,20 +234,20 @@ public class sumit extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(sumit.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(kshitij.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(sumit.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(kshitij.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(sumit.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(kshitij.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(sumit.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(kshitij.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new sumit().setVisible(true);
+                new kshitij().setVisible(true);
             }
         });
     }
